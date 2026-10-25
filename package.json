@@ -1,7 +1,7 @@
 {
   "name": "@sfmc-bds/module-online-time",
   "version": "1.0.0",
-  "packageManager": "pnpm@10.8.0",
+  "packageManager": "pnpm@12.15.0",
   "type": "module",
   "description": "SAPI module: 在线时长统计",
   "license": "ISC",
