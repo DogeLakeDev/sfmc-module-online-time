@@ -1,11 +1,11 @@
 {
   "name": "@sfmc-bds/module-online-time",
-  "version": "0.2.2",
+  "version": "1.0.0",
   "packageManager": "pnpm@10.8.0",
   "type": "module",
   "description": "SAPI module: 在线时长统计",
   "license": "ISC",
-  "repository": "git+https://github.com/Tanya7z/sfmc-module-online-time.git",
+  "repository": "git+https://github.com/DogeLakeDev/sfmc-module-online-time.git",
   "main": "sapi/src/index.ts",
   "exports": {
     ".": "./sapi/src/index.ts"

@@ -29,12 +29,6 @@
       "type": "button",
       "label": "刷新",
       "trigger": { "type": "refresh" }
-    },
-    {
-      "id": "close",
-      "type": "button",
-      "label": "关闭",
-      "trigger": { "type": "close" }
     }
   ]
 }
